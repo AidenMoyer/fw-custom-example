@@ -1,6 +1,2 @@
-! example of .ini file templating option
-#define ts_show_etb_pins false
-
-
-! example of table size override
-#define IGN_TRIM_SIZE 8
+! TunerStudio .ini options for the genset ECU board. Nothing to override: the ETB pins and the rotary
+! (trailing-spark) settings are shown by default.
